@@ -1,11 +1,11 @@
 {
-  "store_id": 1052,
-  "name": "My Shop",
-  "domain": "ecomplus-storefront.netlify.app",
-  "short_name": "My Shop",
-  "description": "My PWA Shop",
-  "primary_color": "#222831",
-  "secondary_color": "#393e46",
+  "store_id": 1100,
+  "name": "smartcopos",
+  "domain": "smartcopos.netlify.app",
+  "short_name": "smartcopos",
+  "description": "",
+  "primary_color": "#a5003c",
+  "secondary_color": "#000000",
   "bg_color": "#ffffff",
   "theme": {
     "bootswatch": "_"
