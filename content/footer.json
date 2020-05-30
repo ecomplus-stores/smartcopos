@@ -1,20 +1,20 @@
 {
   "description": {
-    "title": "",
-    "text": ""
+    "title": "SmartCopos",
+    "text": "SmartCopos..."
   },
   "links_1": {
     "list_pages": true,
-    "title": "Pages",
+    "title": "Páginas extras",
     "list": []
   },
   "links_2": {
     "list_categories": true,
-    "title": "Categories",
+    "title": "Categorias",
     "list": []
   },
   "contacts": {
-    "title": "Contacts",
+    "title": "Contatos",
     "phone_wpp": true,
     "socials": true,
     "email": true,
@@ -31,15 +31,17 @@
     "visa": true,
     "boleto": true,
     "aura": false,
-    "banrisul": false,
+    "banrisul": true,
     "elo": true,
-    "hipercard": false,
-    "hsbc": false,
+    "hipercard": true,
+    "hsbc": true,
     "bradesco": true,
-    "santander": false,
+    "santander": true,
     "mastercard": true,
-    "citibank": false,
+    "paypal": true,
+    "citibank": true,
     "mais": false,
+    "amex": true,
     "itau": true
   },
   "credits": ""
