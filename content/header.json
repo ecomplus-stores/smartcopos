@@ -17,7 +17,15 @@
     "socials": true
   },
   "categories_list": {
-    "featured": [],
+    "featured": [
+      "/copos?Copos",
+      "/canecas?Canecas",
+      "/tacas?Taças",
+      "/squeezes?Squeezes",
+      "/shakeiras?Shakeiras",
+      "/baldes?Baldes",
+      "/personalizados?Personalizados"
+    ],
     "random": 8
   },
   "search_input": true
