@@ -24,6 +24,13 @@
     {
       "src": "/img/uploads/ssl-safe.png",
       "alt": "Secure connection"
+    },
+    {
+      "src": "/img/uploads/selo_lojaprotegida.gif",
+      "alt": "Loja Protegida"
+    },
+    {
+      "src": "/img/uploads/google.webp"
     }
   ],
   "payment_methods": {
