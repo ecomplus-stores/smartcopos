@@ -1,7 +1,7 @@
 {
   "description": {
     "title": "SmartCopos",
-    "text": "SmartCopos..."
+    "text": "A SmartCopos  atua há mais de 15 anos no mercado de industrialização de produtos Termoplásticos. Injetamos peças com as mais variadas matérias primas (PP, PE, PA, PU, ABS, PS e outros). Trabalhamos com uma grande variedade de Long Drink, Canecas de Chopp, Copos Caldereta, Copos Twister e outros...Somos consciente de grande responsabilidade em oferecer qualidade. Contamos com uma equipe de profissionais altamente qualificados e sempre atualizados para garantia dos serviços."
   },
   "links_1": {
     "list_pages": true,
@@ -30,7 +30,7 @@
     "bb": true,
     "visa": true,
     "boleto": true,
-    "aura": false,
+    "aura": true,
     "banrisul": true,
     "elo": true,
     "hipercard": true,
@@ -40,6 +40,8 @@
     "mastercard": true,
     "paypal": true,
     "citibank": true,
+    "hiper": true,
+    "diners": true,
     "mais": false,
     "amex": true,
     "itau": true
