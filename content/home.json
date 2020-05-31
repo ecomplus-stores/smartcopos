@@ -1,6 +1,6 @@
 {
-  "meta_title": "",
-  "meta_description": "",
+  "meta_title": "SmartCopos",
+  "meta_description": "SmartCopos, copos, canecas, taças, brindes, festas.",
   "sections": [
     {
       "type": "banner-slider",
@@ -28,7 +28,18 @@
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "collection_id": null
+      "collection_id": null,
+      "sort": "news",
+      "title": "Lançamentos"
+    },
+    {
+      "type": "banners-grid"
+    },
+    {
+      "type": "banners-grid"
+    },
+    {
+      "type": "banners-grid"
     }
   ]
 }
