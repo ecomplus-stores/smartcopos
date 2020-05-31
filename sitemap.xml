@@ -32,31 +32,7 @@
     </url>
   
     <url>
-      <loc>https://smartcopos.netlify.app/kit-cinema</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://smartcopos.netlify.app/personalizados</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://smartcopos.netlify.app/sublimacao</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://smartcopos.netlify.app/transfer</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://smartcopos.netlify.app/serigrafia</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
