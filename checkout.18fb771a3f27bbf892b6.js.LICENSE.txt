@@ -71,12 +71,6 @@
  */
 
 /*!
- * @ecomplus/search-engine
- * (c) E-Com Club <ti@e-com.club>
- * Released under the MIT License.
- */
-
-/*!
  * @ecomplus/shopping-cart
  * (c) E-Com Club <ti@e-com.club>
  * Released under the MIT License.
@@ -89,45 +83,17 @@
  */
 
 /*!
- * @ecomplus/widget-product-card
- * (c) E-Com Club <ti@e-com.club>
- * Released under the MIT License.
+ * clipboard.js v2.0.6
+ * https://clipboardjs.com/
+ * 
+ * Licensed MIT © Zeno Rocha
  */
 
 /*!
- * Glide.js v3.4.1
- * (c) 2013-2019 Jędrzej Chałubek <jedrzej.chalubek@gmail.com> (http://jedrzejchalubek.com/)
- * Released under the MIT License.
+ * vuex v3.5.1
+ * (c) 2020 Evan You
+ * @license MIT
  */
-
-/*!
- * Sizzle CSS Selector Engine v2.3.5
- * https://sizzlejs.com/
- *
- * Copyright JS Foundation and other contributors
- * Released under the MIT license
- * https://js.foundation/
- *
- * Date: 2020-03-14
- */
-
-/*!
- * jQuery JavaScript Library v3.5.1 -ajax,-ajax/jsonp,-ajax/load,-ajax/script,-ajax/var/location,-ajax/var/nonce,-ajax/var/rquery,-ajax/xhr,-manipulation/_evalUrl,-deprecated/ajax-event-alias,-effects,-effects/Tween,-effects/animatedSelector
- * https://jquery.com/
- *
- * Includes Sizzle.js
- * https://sizzlejs.com/
- *
- * Copyright JS Foundation and other contributors
- * Released under the MIT license
- * https://jquery.org/license
- *
- * Date: 2020-05-04T22:49Z
- */
-
-/*! lozad.js - v1.15.0 - 2020-05-23
-* https://github.com/ApoorvSaxena/lozad.js
-* Copyright (c) 2020 Apoorv Saxena; Licensed MIT */
 
 /**
  * Simple JS library to handle shopping cart object and events on E-Com Plus (not only) stores.
